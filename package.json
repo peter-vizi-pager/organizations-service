@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@pager/ea-client": "^4.14.0",
+    "tsyringe": "^4.7.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
